@@ -6,4 +6,4 @@
 
 
 Разработчик:<br>
-Ярослав Абашин <br>E-mail: kabashin@mail.ru<br>Telegram @qpwofk<br>
+Ярослав Абашин <br>E-mail: kotmatrogo@gmail.com<br>Telegram @qpwofk<br>
