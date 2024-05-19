@@ -4,6 +4,12 @@
 >- Python 3.10 
 >- Aiogram 2.23.1
 
+Url Telegram бота https://t.me/informatika_use_bot
 
-Разработчик:<br>
-Ярослав Абашин <br>E-mail: kotmatrogo@gmail.com<br>Telegram @qpwofk<br>
+Перед первым запуском бота, установите необходимые зависимости:
+>- pip install -r requirements.txt
+
+Разработчик:
+<br>Ярослав Абашин 
+<br>E-mail: kotmatrogo@gmail.com
+<br>Telegram @qpwofk<br>
